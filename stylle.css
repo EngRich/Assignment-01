@@ -1,0 +1,16 @@
+.r{
+    background-color: red;
+    color: white;padding-bottom: 15%;display: block;
+}
+
+.g{
+    background-color: green;padding-bottom: 15%;display: block;
+    color: white;
+
+}
+
+.b{
+    background-color: blue;color: white;display: block;
+    padding-bottom: 10%;
+    
+}
